@@ -74,12 +74,3 @@ tx.commit()
 
 url = 'http://localhost:7474'
 webbrowser.open(url, new=2) # new=2 opens a new tab
-
-
-
-
-    
-
-
-    
-    
